@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning to explore outside the mainstream for a broader perspective.
 
 
-- 📫 How to reach me ...
+- 📫 How to reach me ...discgolfpoet@gmail
 
 <!---
 Discgolpoet/Discgolpoet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
